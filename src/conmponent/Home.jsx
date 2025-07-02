@@ -80,7 +80,7 @@ const imageStyle = {
   width: '100%',
   height: '100%',
   backgroundColor: '#bdc3c7',
-  backgroundImage: 'url(./src/img/img1.png)',
+  backgroundImage: 'url(/img/img1.png)',
   backgroundSize: 'cover',
   backgroundPosition: 'center'
 };
